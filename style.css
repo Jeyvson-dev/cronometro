@@ -1,0 +1,49 @@
+h1{
+
+margin-left: 32%;
+
+
+}
+
+div{
+
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+
+}
+#start{
+
+    height: 80px;
+    padding-top: 45px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #024a02;
+    width: 40% ;
+
+  
+}
+
+#pause{
+
+    height: 80px;
+    padding-top: 45px;
+    text-align: center;
+    cursor: pointer;
+    background-color: #6b1010;
+    width: 40% ;
+   
+
+}
+.texto{
+
+text-align: center;
+font-size: 30px;
+
+}
+#contagem{
+
+margin-left: 38%;
+font-size: 80px;
+
+}
